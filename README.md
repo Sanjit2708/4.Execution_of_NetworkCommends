@@ -57,7 +57,36 @@ while True:
 ```
 
 ## Output
-<img width="466" height="244" alt="image" src="https://github.com/user-attachments/assets/9634a6e0-8149-4b00-b5cd-a68f03d5228b" />
+## Client & Server
+<img width="930" height="200" alt="image" src="https://github.com/user-attachments/assets/4bfa697d-a44d-4d41-b761-3772f10007b0" />
+
+## netstat
+<img width="745" height="288" alt="image" src="https://github.com/user-attachments/assets/dc444a48-ec9d-42c6-8323-1a82d0583ac3" />
+
+## ipconfig
+<img width="651" height="288" alt="image" src="https://github.com/user-attachments/assets/355bf7f8-fade-4854-a7b5-6b177f824bf5" />
+
+## ping
+<img width="713" height="292" alt="image" src="https://github.com/user-attachments/assets/e138e188-0721-4448-81d3-335d5e285e90" />
+
+## tracert
+<img width="656" height="278" alt="image" src="https://github.com/user-attachments/assets/5239e4f1-59b6-442e-8b2b-85206f4c923d" />
+
+## nslookup
+<img width="444" height="167" alt="image" src="https://github.com/user-attachments/assets/56afd050-7896-49dc-8d00-a8b24704debd" />
+
+## getmac & hostname
+<img width="715" height="219" alt="image" src="https://github.com/user-attachments/assets/9112f18e-b748-4231-9de8-4daeb9073bfd" />
+
+## nbtstat
+<img width="872" height="273" alt="image" src="https://github.com/user-attachments/assets/874baedf-dcfd-4c1e-8808-c64ad36e3830" />
+
+## arp 
+<img width="805" height="282" alt="image" src="https://github.com/user-attachments/assets/ba285551-2c27-42da-a89b-25d1c7809c5d" />
+
+## systeminfo
+<img width="720" height="267" alt="image" src="https://github.com/user-attachments/assets/8d8a613e-39da-4393-bd2d-4931529192f8" />
+
 
 
 ## Result
